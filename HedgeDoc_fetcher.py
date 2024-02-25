@@ -2,7 +2,7 @@ import requests
 
 def fetch_hedgedoc_content():
     # Make a request to the HedgeDoc API to get the content of your document
-    hedgedoc_url = "https://your-hedgedoc-instance.com/documents/your-document-id"
+    hedgedoc_url = "https://md.fachschaften.org/s/ad0S7oPA0"
     response = requests.get(hedgedoc_url)
     content = response.json()["content"]
 
