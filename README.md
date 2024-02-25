@@ -2,8 +2,6 @@
 
 ## P I N N E D
 
-<div style="box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); border: 1px solid rgba(0, 0, 0, 0.1); padding-inline: 25px; margin-block: 25px;"> 
-
 ### **Buffer**
 
 > Arch Wiki:  https://wiki.archlinux.org/
@@ -18,12 +16,8 @@
 ### Bürokratie:
 - US Visa: https://www.ustraveldocs.com/de/de-niv-appointmentschedule.asp
 
-</div>
-
 
 ## Tools
-
-<div style="box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); border: 1px solid rgba(0, 0, 0, 0.1); padding-inline: 25px; margin-block: 25px;">
 
 
 ### Tools
@@ -59,11 +53,7 @@
 4. uni-discounts: https://www.myunidays.com/DE/de-DE/category/fashion
 
 
-</div>
-
 ## edu
-
-<div style="box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); border: 1px solid rgba(0, 0, 0, 0.1); padding-inline: 25px; margin-block: 25px;">
 
 ### Uni
 1. UniMail: https://webmail.tu-dortmund.de/roundcubemail/
@@ -86,11 +76,7 @@
 3. https://www.mpg.de/jobboard
 4. https://www.helmholtz.de/en/career/careers-at-helmholtz/
 
-</div>
-
 ## Other
-
-<div style="box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); border: 1px solid rgba(0, 0, 0, 0.1); padding-inline: 25px; margin-block: 25px;">
 
 ### Book Archives:
 1. https://iqfy.com/
@@ -124,4 +110,3 @@
 3. https://www.skool.com/jazz-guitar-fellowship/about
 4. https://hellomusictheory.com/learn/moroccan-instruments/
     
-</div>
